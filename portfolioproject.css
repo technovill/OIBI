@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: cursive;
+    font size: 30px;
+    color: #f8f5f5;
+    background-image: url('https://cdn.dribbble.com/users/4318/screenshots/55244/media/7eb84e59270d5214f4193275b7c935ba.jpg?resize=400x0');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.
+/* Adjust the height as needed */
+
+header {
+    text-align: center;
+    background-color: #a98fe7;
+    padding: 20px;
+    color: aliceblue;
+}
+
+header h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+header h2 {
+    font-size: 18px;
+    color: #fffafa;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    padding: 20px;
+}
+
+section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
